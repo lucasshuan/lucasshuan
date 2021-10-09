@@ -18,7 +18,6 @@ An aspiring Web Developer and Game Developer from Rio de Janeiro.
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=23/></code>
   <code><img src="https://user-images.githubusercontent.com/78228526/136673488-71e0c65b-c4b8-42aa-9a6a-c0cbd9af6b9d.png" width=23/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=23/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=23/></code>
 </h4>
 
 ## 🏔️ Where To Find Me
