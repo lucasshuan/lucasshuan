@@ -1,4 +1,4 @@
-# Hey there! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 My name is Jean Rocha, I am a Web Developer and Game Developer from Brazil, Rio de Janeiro.
 <!--
