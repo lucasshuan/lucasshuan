@@ -1,5 +1,5 @@
 
-# Hey there! <img src="https://user-images.githubusercontent.com/78228526/136672108-dbfffe8c-370c-47ef-8752-8882ccd9740d.gif" width="25" height="25">
+# Hey there!
 
 My name is Jean Rocha, I am an aspiring Web Developer and Game Developer from Brazil, Rio de Janeiro.
 
