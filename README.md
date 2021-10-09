@@ -3,10 +3,10 @@
   <img src="https://user-images.githubusercontent.com/78228526/136672537-14352cdc-2bcd-48aa-ba9a-5e37b1e1ddb8.png"/>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/WEBSITE-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-TWITTER-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Itch.io Badge](https://img.shields.io/badge/-ITCH.IO-FA5C5C?style=flat-square&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
 
 ## Hey there! 👋
 
