@@ -4,12 +4,7 @@ Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 My name is Jean Rocha, I am a Web Developer and Game Developer from Brazil, Rio de Janeiro.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucroch&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucroch&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobelven)](https://github.com/anuraghazra/github-readme-stats)
 
 **lucroch/lucroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
