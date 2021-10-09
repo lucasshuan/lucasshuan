@@ -19,6 +19,9 @@ I am an aspiring Web Developer and Game Developer from Rio de Janeiro.
   <img src="https://user-images.githubusercontent.com/78228526/136673488-71e0c65b-c4b8-42aa-9a6a-c0cbd9af6b9d.png" width=15/> NodeJS
 </h4>
 
-## 🛠️ Where To Find Me
+## 🏔️ Where To Find Me
 
+**[Linkedin](https://nobelven.itch.io/)**: Professional Profile
 **[Itch.io](https://nobelven.itch.io/)**: Game Projects & Art Packs
+**[Soundcloud](https://nobelven.itch.io/)**: Game Music
+**[Fiverr](https://nobelven.itch.io/)**: Freelancer
