@@ -28,7 +28,7 @@ An aspiring Web Developer and Game Developer from Rio de Janeiro.
 [![Twitter Badge](https://img.shields.io/badge/--00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![SoundCloud Badge](https://img.shields.io/badge/--FF3300?style=flat&logo=SoundCloud&logoColor=white)](https://twitter.com/iampavangandhi)
 
-**[Linkedin](https://www.linkedin.com/in/lucrocha2/)**: Professional Profile<br>
+**[Linkedin](https://www.linkedin.com/in/lucrocha2/)** <h3>Professional Profile</h3><br>
 **[Itch.io](https://nobelven.itch.io/)**: Game Projects & Art Packs<br>
 **[Soundcloud](https://soundcloud.com/nobelven)**: Game Music<br>
 **[Fiverr](https://www.fiverr.com/nobelven)**: Freelancer
