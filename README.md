@@ -4,6 +4,6 @@
 </p>
 <h3>Hey there! 👋</h3>
 
-I'm <b>Lucas Rocha</b> aka Noble,<br>
+I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
 I am an aspiring Web Developer and Game Developer from Rio de Janeiro, Brazil.
 
