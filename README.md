@@ -6,7 +6,7 @@
 ## Hey there! 👋
 
 I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
-I am an aspiring Web Developer and Game Developer from Rio de Janeiro, Brazil.
+I am an aspiring Web Developer and Game Developer from Rio de Janeiro.
 
 ## 🛠️ Technologies & Tools
 
@@ -18,3 +18,8 @@ I am an aspiring Web Developer and Game Developer from Rio de Janeiro, Brazil.
   <img src="https://user-images.githubusercontent.com/78228526/136673471-3f15a7d9-b8cf-4b7c-a174-36b4ce880702.png" width=15/> ReactJS •
   <img src="https://user-images.githubusercontent.com/78228526/136673488-71e0c65b-c4b8-42aa-9a6a-c0cbd9af6b9d.png" width=15/> NodeJS
 </h4>
+
+## 🛠️ Where To Find Me
+
+<h4>
+  <img src="https://user-images.githubusercontent.com/78228526/136673910-b9152a75-1b5e-4336-b01f-27a03d0481ef.png" width=15/> Itch.io
