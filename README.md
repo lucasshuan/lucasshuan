@@ -7,6 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/WEBSITE-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-TWITTER-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Itch.io Badge](https://img.shields.io/badge/-ITCH.IO-FA5C5C?style=flat-square&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Soundcloud Badge](https://img.shields.io/badge/-ITCH.IO-FA5C5C?style=flat-square&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
 
 ## Hey there! 👋
 
