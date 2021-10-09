@@ -24,4 +24,4 @@ An aspiring Web Developer and Game Developer from Rio de Janeiro.
 **[Linkedin](https://www.linkedin.com/in/lucrocha2/)**: Professional Profile<br>
 **[Itch.io](https://nobelven.itch.io/)**: Game Projects & Art Packs<br>
 **[Soundcloud](https://soundcloud.com/nobelven)**: Game Music<br>
-**[Fiverr](https://www.fiverr.com/nobelvene)**: Freelancer
+**[Fiverr](https://www.fiverr.com/nobelven)**: Freelancer
