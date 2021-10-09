@@ -5,6 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Itch.io Badge](https://img.shields.io/badge/-ITCH.IO-FA5C5C?style=flat&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-TWITTER-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![SoundCloud Badge](https://img.shields.io/badge/-SOUNDCLOUD-FF3300?style=flat&logo=SoundCloud&logoColor=white)](https://twitter.com/iampavangandhi)
 
