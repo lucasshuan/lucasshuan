@@ -5,4 +5,4 @@ My name is Jean Rocha, I am a Web Developer and Game Developer from Brazil, Rio 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucroch&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
