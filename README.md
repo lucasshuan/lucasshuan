@@ -22,4 +22,4 @@ I am an aspiring Web Developer and Game Developer from Rio de Janeiro.
 ## 🛠️ Where To Find Me
 
 <h4>
-  <img src="https://user-images.githubusercontent.com/78228526/136673910-b9152a75-1b5e-4336-b01f-27a03d0481ef.png" width=20/> <b>Itch.io</b>: Game Projects & Art Packs
+  <img src="https://user-images.githubusercontent.com/78228526/136673910-b9152a75-1b5e-4336-b01f-27a03d0481ef.png" width=20/> Itch.io: <b>Game Projects & Art Packs</b>
