@@ -1,4 +1,5 @@
 
-<h3>Hey there! 👋<br>My name is Jean Rocha,<br>I am an aspiring Web Developer and Game Developer</h3>
+<h3>Hey there! 👋</h3>
 
+My name is Jean Rocha,
 I am an aspiring Web Developer and Game Developer from Brazil, Rio de Janeiro.
