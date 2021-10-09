@@ -7,8 +7,6 @@
 I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
 I am an aspiring Web Developer and Game Developer from Rio de Janeiro, Brazil.
 
-![image](https://user-images.githubusercontent.com/78228526/136673428-ddb9b850-9c33-4b12-bddf-1b98a88eeec3.png)
-
-
-<img src="https://user-images.githubusercontent.com/78228526/136673415-5212d5b5-f118-4cf7-863d-4a0606f6d1e5.png" width=25/>
+<p><img src="https://user-images.githubusercontent.com/78228526/136673415-5212d5b5-f118-4cf7-863d-4a0606f6d1e5.png" width=25/>
 <img src="https://user-images.githubusercontent.com/78228526/136673428-ddb9b850-9c33-4b12-bddf-1b98a88eeec3.png" width=25/>
+</p>
