@@ -1,5 +1,5 @@
 
-![Noble](https://user-images.githubusercontent.com/78228526/136672520-8f2919c5-cb58-43b6-bc65-7e2f7d038956.png)
+![Noble](https://user-images.githubusercontent.com/78228526/136672537-14352cdc-2bcd-48aa-ba9a-5e37b1e1ddb8.png)
 
 <h3>Hey there! 👋</h3>
 
