@@ -6,7 +6,7 @@
 ## Hey there! 👋
 
 I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
-I am an aspiring Web Developer and Game Developer from Rio de Janeiro.
+An aspiring Web Developer and Game Developer from Rio de Janeiro.
 
 ## 🛠️ Technologies & Tools
 
