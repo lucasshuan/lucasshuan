@@ -3,13 +3,6 @@
   <img src="https://user-images.githubusercontent.com/78228526/136672537-14352cdc-2bcd-48aa-ba9a-5e37b1e1ddb8.png"/></p>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Itch.io Badge](https://img.shields.io/badge/--FA5C5C?style=flat&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/--13448F?style=flat&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/--00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![SoundCloud Badge](https://img.shields.io/badge/--FF3300?style=flat&logo=SoundCloud&logoColor=white)](https://twitter.com/iampavangandhi)
-
-
 ## Hey there! 👋
 
 I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
@@ -28,6 +21,12 @@ An aspiring Web Developer and Game Developer from Rio de Janeiro.
 </h4>
 
 ## 🏔️ Where To Find Me
+
+[![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi): Professional Profile<br>
+[![Itch.io Badge](https://img.shields.io/badge/--FA5C5C?style=flat&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/--13448F?style=flat&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/--00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![SoundCloud Badge](https://img.shields.io/badge/--FF3300?style=flat&logo=SoundCloud&logoColor=white)](https://twitter.com/iampavangandhi)
 
 **[Linkedin](https://www.linkedin.com/in/lucrocha2/)**: Professional Profile<br>
 **[Itch.io](https://nobelven.itch.io/)**: Game Projects & Art Packs<br>
