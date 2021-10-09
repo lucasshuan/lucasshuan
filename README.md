@@ -21,5 +21,4 @@ I am an aspiring Web Developer and Game Developer from Rio de Janeiro.
 
 ## 🛠️ Where To Find Me
 
-<h4>
-  [](https://nobelven.itch.io/ Itch.io): <b>Game Projects & Art Packs</b>
+[](https://nobelven.itch.io/ Itch.io): <b>Game Projects & Art Packs</b>
