@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78228526/136672537-14352cdc-2bcd-48aa-ba9a-5e37b1e1ddb8.png"/></p>
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Itch.io Badge](https://img.shields.io/badge/-ITCH.IO-FA5C5C?style=flat&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/WEBSITE-13448F?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
