@@ -1,5 +1,5 @@
 
-# <img src="https://img.itch.zone/aW1nLzY0NzI3NDcucG5n/original/HNwhMi.png">
+# <img src="https://i.imgur.com/zpEqc2I.png">
 Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 My name is Jean Rocha, I am a Web Developer and Game Developer from Brazil, Rio de Janeiro.
