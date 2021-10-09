@@ -11,7 +11,7 @@ An aspiring Web Developer and Game Developer from Rio de Janeiro.
 ## 🛠️ Technologies & Tools
 
 <h4>
-  <img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=15/> HTML •
+  `<img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=15/>` HTML •
   <img src="https://user-images.githubusercontent.com/78228526/136673531-00f2765a-643d-49eb-a483-7c662d99b8ec.png" width=15/> CSS •
   <img src="https://user-images.githubusercontent.com/78228526/136673415-5212d5b5-f118-4cf7-863d-4a0606f6d1e5.png" width=15/> JavaScript •
   <img src="https://user-images.githubusercontent.com/78228526/136673428-ddb9b850-9c33-4b12-bddf-1b98a88eeec3.png" width=15/> TypeScript •
