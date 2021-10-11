@@ -5,8 +5,9 @@
 
 ## Hey there! 👋
 
-I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
-An aspiring Web Developer from Rio de Janeiro, Brazil.<br>
+<h4>I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
+An aspiring Web Developer from Rio de Janeiro, Brazil.<br></h4>
+
 I'm into a lot of things simultaneously, and have contributed with art and music to many games so far, but my ever growing programming interest made me realize that's what I want to work with, so I have been studying Web Development intensively recently, and hopefully I can find a job in this field.
 
 ## 🛠️ Technologies & Tools
