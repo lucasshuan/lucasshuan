@@ -24,7 +24,7 @@ I'm into a lot of things simultaneously, and have contributed with art and music
 
 ## 🏔️ Where To Find Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi) [![Itch.io Badge](https://img.shields.io/badge/-Itchio-FA5C5C?style=flat&logo=Itch.io&logoColor=white)](https://twitter.com/iampavangandhi) [![Website Badge](https://img.shields.io/badge/-Website-13448F?style=flat&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi) [![SoundCloud Badge](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat&logo=SoundCloud&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucrocha2) [![Itch.io Badge](https://img.shields.io/badge/-Itchio-FA5C5C?style=flat&logo=Itch.io&logoColor=white)](https://nobelven.itch.io/) [![Website Badge](https://img.shields.io/badge/-Website-13448F?style=flat&logo=google-chrome&logoColor=white)](https://nobelven.itch.io/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/nobelven) [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FF3300?style=flat&logo=SoundCloud&logoColor=white)](https://soundcloud.com/nobelven)
 
 **[Linkedin](https://www.linkedin.com/in/lucrocha2/)**: Professional Profile<br>
 **[Itch.io](https://nobelven.itch.io/)**: Game Projects & Art Packs<br>
