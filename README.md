@@ -12,7 +12,7 @@ I'm into a lot of things simultaneously, and have contributed with art and music
 
 ## 🛠️ Technologies & Tools
 
-| Tenho experiência   |  Estou estudando    |  Tenho interesse    |
+|    TENHO EXPERIÊNCIA    |    ESTOU ESTUDANDO    |    TENHO INTERESSE    |
 | ------------------- | ------------------- | ------------------- |
 |  <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673531-00f2765a-643d-49eb-a483-7c662d99b8ec.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673415-5212d5b5-f118-4cf7-863d-4a0606f6d1e5.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136674315-bb577e67-a9ef-41b9-aedb-b97c498ee4c9.png" width=23/></code> |  Célula de conteúdo | Célula de conteúdo  |
 <h4>
