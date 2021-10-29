@@ -14,7 +14,7 @@ I'm into a lot of things simultaneously, and have contributed with art and music
 
 | Tenho experiência   |  Estou estudando    |  Tenho interesse    |
 | ------------------- | ------------------- | ------------------- |
-|  <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code> |  Célula de conteúdo | Célula de conteúdo  |
+|  <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code> |  Célula de conteúdo | Célula de conteúdo  |
 <h4>
   <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code>
   <code><img src="https://user-images.githubusercontent.com/78228526/136673531-00f2765a-643d-49eb-a483-7c662d99b8ec.png" width=23/></code>
