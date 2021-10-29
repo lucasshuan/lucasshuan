@@ -14,7 +14,7 @@ I'm into a lot of things simultaneously, and have contributed with art and music
 
 |    Tenho experiência    |    Estou estudando    |    Tenho    |
 | ------------------- | ------------------- | ------------------- |
-|  <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673531-00f2765a-643d-49eb-a483-7c662d99b8ec.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673415-5212d5b5-f118-4cf7-863d-4a0606f6d1e5.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136674315-bb577e67-a9ef-41b9-aedb-b97c498ee4c9.png" width=23/></code> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width=23/></code> |  Célula de conteúdo | Célula de conteúdo  |
+|  <code><img src="https://user-images.githubusercontent.com/78228526/136673526-557590ab-e5e6-4770-aa9f-c2014466ae53.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673531-00f2765a-643d-49eb-a483-7c662d99b8ec.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136673415-5212d5b5-f118-4cf7-863d-4a0606f6d1e5.png" width=23/></code> <code><img src="https://user-images.githubusercontent.com/78228526/136674315-bb577e67-a9ef-41b9-aedb-b97c498ee4c9.png" width=23/></code> <code><img src="https://preview.redd.it/uwau9udc0b751.png?auto=webp&s=cf136d47c74a0bc6ea39cdb96bb333c4793050bd" width=23/></code> |  Célula de conteúdo | Célula de conteúdo  |
 <h4>
   
   
