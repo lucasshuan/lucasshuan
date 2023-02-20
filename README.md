@@ -8,9 +8,9 @@ I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
 
 I'm a Composer, Programmer and Designer (<i>or at least attempting to be all that</i>) living in Rio de Janeiro, Brazil
 
-My greatest ambition and sole reason for me to be studying so hard is to be able to help other people.
-I learn so I can teach.
-I create so others can feel.
+My greatest ambition and sole reason for me to be studying so hard is to be able to help other people.<br>
+I learn so I can teach.<br>
+I create so others can feel.<br>
 
 ## 🏔️ Where To Find Me
 
