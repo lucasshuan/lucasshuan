@@ -5,6 +5,7 @@
 ## Hey there! 👋
 
 <h4>I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
+
 I'm a Composer, Programmer and Designer (or at least attempting to be all that) living in Rio de Janeiro, Brazil
 
 My greatest ambition and sole reason to be studying so hard is to be able to help other people.
