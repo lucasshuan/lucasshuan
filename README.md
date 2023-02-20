@@ -12,6 +12,11 @@ My greatest ambition and sole reason for me to be studying so hard is to be able
 I learn so I can teach.<br>
 I create so others can feel.<br>
 
+## 🏔️ Languages & Technologies
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">Godot</code>
+
 ## 🏔️ Where To Find Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucrocha2) [![Itch.io Badge](https://img.shields.io/badge/-Itchio-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nobelven.itch.io/) [![Website Badge](https://img.shields.io/badge/-Website-13448F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobelven.itch.io/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nobelven) [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/nobelven)
