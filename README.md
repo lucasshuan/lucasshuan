@@ -15,7 +15,7 @@ I create so others can feel.<br>
 ## 🏔️ Languages & Technologies
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> TypeScript</code> <code><img height="20" src="![image](https://user-images.githubusercontent.com/78228526/219989546-e8341f33-4e5c-4043-8f55-50e578122300.png)"> Unity</code> <code><img height="20" src="https://pbs.twimg.com/media/FJBkDLWXwAMtNzv.jpg"> Go</code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> C#</code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Godot</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code> <code><img height="20" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg"> TypeScript</code> <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png"> Unity</code> <code><img height="20" src="https://pbs.twimg.com/media/FJBkDLWXwAMtNzv.jpg"> Go</code> <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"> C#</code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Godot</code>
 
 ## 🏔️ Where To Find Me
 
