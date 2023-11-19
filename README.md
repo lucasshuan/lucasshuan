@@ -4,7 +4,7 @@
 
 ## Hey there! 👋
 
-I'm <b>Jean Lucas</b> aka <b>Noble</b>,<br>
+I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
 
 I'm a Composer, Programmer and Designer (<i>or at least attempting to be all that</i>) living in Rio de Janeiro, Brazil
 
