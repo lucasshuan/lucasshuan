@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/lucasshuan/lucasshuan/assets/78228526/250d306c-c9d7-4b9a-990a-120a8028e881">
-  <i>"Those who can't sacrifice anything,<br>
+  <br><i>"Those who can't sacrifice anything,<br>
   can't change anything."</i>
 </div>
 
