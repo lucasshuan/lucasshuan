@@ -10,12 +10,7 @@ My name is <b>Lucas Shuan</b> aka <b>Noble</b>, a developer and computer science
 
 I study tirelessly with a singular ambition: to spread positive values worldwide and extend a helping hand to those in need.<br>
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lucasshuan&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasshuan&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+<img src="https://raw.githubusercontent.com/lucasshuan/github-stats-transparent/output/generated/overview.svg" alt="Overview"><img src="https://raw.githubusercontent.com/lucasshuan/github-stats-transparent/output/generated/languages.svg" alt="Languages">
 
 ## 🛠️ Technologies & Tools
 
