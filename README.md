@@ -26,7 +26,7 @@ I create so others can feel.<br>
 
 ## 🏔️ Where To Find Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucrocha2) [![Itch.io Badge](https://img.shields.io/badge/-Itchio-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nobelven.itch.io/) [![Website Badge](https://img.shields.io/badge/-Website-13448F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobelven.itch.io/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nobelven) [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/nobelven)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucrocha2) [![Itch.io Badge](https://img.shields.io/badge/-Itchio-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nobelven.itch.io/) [![Website Badge](https://img.shields.io/badge/-Website-13448F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobelven.itch.io/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nobelven) [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/lucas_shuan)
 
 **[Linkedin](https://www.linkedin.com/in/lucrocha2/)**: Professional Profile<br>
 **[Itch.io](https://nobelven.itch.io/)**: Game Projects & Art Packs<br>
