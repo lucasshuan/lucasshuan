@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78228526/136672537-14352cdc-2bcd-48aa-ba9a-5e37b1e1ddb8.png"/></p>
+  ![feather](https://github.com/lucasshuan/lucasshuan/assets/78228526/250d306c-c9d7-4b9a-990a-120a8028e881)
 <br>
 
 ## Hey there! 👋
