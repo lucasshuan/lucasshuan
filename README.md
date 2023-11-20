@@ -1,16 +1,16 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/lucasshuan/lucasshuan/assets/78228526/250d306c-c9d7-4b9a-990a-120a8028e881">
-</p>
+  <i>"Those who can't sacrifice anything,<br>
+  can't change anything."</i>
+</div>
 
 ## Hey there! 👋
 
-I'm <b>Lucas Rocha</b> aka <b>Noble</b>,<br>
+My name is <b>Lucas Shuan</b> aka <b>Noble</b>, a developer and computer science student hailing from Rio de Janeiro, Brazil. 
 
-I'm a Composer, Programmer and Designer (<i>or at least attempting to be all that</i>) living in Rio de Janeiro, Brazil
+My journey spans various realms of development, including Game Design, Music, Art, Artificial Intelligence, and Web Development.
 
-My greatest ambition and sole reason for me to be studying so hard is to be able to help other people.<br>
-I learn so I can teach.<br>
-I create so others can feel.<br>
+My greatest ambition and sole reason for me to be studying so hard is to be able to instill positive values and lend a helping hand to those who need.<br>
 
 ## 🛠️ Technologies & Tools
 
