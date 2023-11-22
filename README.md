@@ -35,4 +35,4 @@ I study tirelessly with a singular ambition: to spread positive values worldwide
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucrocha2) 
 [![Itch.io Badge](https://img.shields.io/badge/-Itchio-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nobelven.itch.io/)
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/lucas_shuan)
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/lucas-shuan)
