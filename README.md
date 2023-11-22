@@ -6,7 +6,7 @@
 
 ## Hey there! 👋
 
-My name is <b>Lucas Shuan</b> aka <b>Noble</b>, a developer and computer science student hailing from Rio de Janeiro, Brazil. My journey spans various realms of development, including Game Design, Music, Art, AI, and Web Development.
+My name is <b>Lucas Shuan</b> aka <b>Noble</b>, a developer and student hailing from Rio de Janeiro, Brazil. My journey spans various realms of development, including Game Design, Music, Art, AI, and Web Development.
 
 I study tirelessly with a singular ambition: to spread positive values worldwide and extend a helping hand to those in need.<br>
 
