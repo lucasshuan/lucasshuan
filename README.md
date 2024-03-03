@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lucasshuan/lucasshuan/assets/78228526/250d306c-c9d7-4b9a-990a-120a8028e881">
+  <img width=128 src="https://github.com/lucasshuan/lucasshuan/assets/78228526/bc807a75-f9b1-4f04-b778-44b4bd3624f8"/>
   <br><i>"Those who can't sacrifice anything,<br>
   can't change anything."</i>
 </div>
