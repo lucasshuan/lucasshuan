@@ -10,8 +10,6 @@ My name is <b>Lucas Shuan</b> aka <b>Noble</b>, a developer and student hailing 
 
 I study tirelessly with a singular ambition: to spread positive values worldwide and extend a helping hand to those in need.<br>
 
-<img src="https://raw.githubusercontent.com/lucasshuan/github-stats-transparent/output/generated/overview.svg" alt="Overview"><img src="https://raw.githubusercontent.com/lucasshuan/github-stats-transparent/output/generated/languages.svg" alt="Languages">
-
 ## 🛠️ Technologies & Tools
 
 #### Programming language
