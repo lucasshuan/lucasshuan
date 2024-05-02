@@ -16,22 +16,40 @@ I study tirelessly with a singular ambition: to spread positive values worldwide
 
 ## 🛠️ Technologies & Tools
 
-#### Programming language
-
-[![Programming language skills](https://skillicons.dev/icons?i=js,ts,go,cs,cpp,rust)](https://skillicons.dev)
-
-#### Frontend development
-
-[![Frontend development skills](https://skillicons.dev/icons?i=html,css,tailwind,graphql,nextjs,react,jest)](https://skillicons.dev)
-
-#### Backend development
-
-[![Backend development skills](https://skillicons.dev/icons?i=docker,dotnet,nodejs,prisma)](https://skillicons.dev)<br>
-[![Database skills](https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb)](https://skillicons.dev)
-
-#### Game development
-
-[![Game development skills](https://skillicons.dev/icons?i=blender,unity,unreal,godot)](https://skillicons.dev)
+<details>
+  <summary>Programming languages</summary>
+  <br/>
+  <img alt="JavaScript, TypeScript, Go, C#" src="https://skillicons.dev/icons?i=js,ts,go,cs" />
+  <img alt="C++, Rust" src="https://skillicons.dev/icons?i=cpp,rust" />
+  <br/>
+</details>
+<details>
+  <summary>Frontend development</summary>
+  <br/>
+  <img alt="HTML, CSS, Tailwind, GraphQL" src="https://skillicons.dev/icons?i=html,css,tailwind,graphql" />
+  <img alt="NextJS, React, Jest, Vue" src="https://skillicons.dev/icons?i=nextjs,react,jest,vue" />
+  <br/>
+</details>
+<details>
+  <summary>Backend development</summary>
+  <br/>
+  <img alt="Docker, Dotnet, Node, Prisma" src="https://skillicons.dev/icons?i=docker,dotnet,nodejs,prisma" />
+  <img alt="Redis, MySQL, Postgres, Mongo" src="https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb" />
+  <img alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" />
+  <br/>
+</details>
+<details>
+  <summary>DevOps</summary>
+  <br/>
+  <img alt="Google Cloud Platform, AWS, Kubernetes" src="https://skillicons.dev/icons?i=gcp,aws,kubernetes" />
+  <br/>
+</details>
+<details>
+  <summary>Game development</summary>
+  <br/>
+  <img alt="Unity, Unreal Engine, Blender, Godot" src="https://skillicons.dev/icons?i=unity,unreal,blender,godot" />
+  <br/>
+</details>
 
 ## 🏔️ Where To Find Me
 
