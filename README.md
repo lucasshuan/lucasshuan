@@ -8,8 +8,6 @@
 
 My name is <b>Lucas Shuan</b> aka <b>Noble</b>, a developer and student hailing from Rio de Janeiro, Brazil. My journey spans various realms of development, including Web Development, Game Design, VR, Music, Art, AI and 3D Modeling.
 
-I study tirelessly with a singular ambition: to spread positive values worldwide and extend a helping hand to those in need.<br>
-
 <div align="center">
   <img width=256 src="https://github.com/lucasshuan/lucasshuan/assets/78228526/7473f855-e203-4370-96f6-29b33fe08da9" /></br>
 </div>
